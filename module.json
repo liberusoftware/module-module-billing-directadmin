@@ -3,7 +3,7 @@
   "name": "module-billing-directadmin",
   "display_name": "Billing DirectAdmin",
   "description": "Optional DirectAdmin hosting account adapter.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "category": "adapter",
   "provider": "Liberu\\Billing\\DirectAdmin\\DirectAdminServiceProvider",
   "requires": {
